@@ -1,0 +1,15 @@
+C:\Projeto\trilha-net-explorando-desafio\bin\Debug\net8.0\DesafioProjetoHospedagem.exe
+C:\Projeto\trilha-net-explorando-desafio\bin\Debug\net8.0\DesafioProjetoHospedagem.deps.json
+C:\Projeto\trilha-net-explorando-desafio\bin\Debug\net8.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Projeto\trilha-net-explorando-desafio\bin\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Projeto\trilha-net-explorando-desafio\bin\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\refint\DesafioProjetoHospedagem.dll
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Projeto\trilha-net-explorando-desafio\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
